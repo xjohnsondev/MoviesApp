@@ -1,0 +1,26 @@
+/* body {
+    margin: 0;
+} */
+
+.movie-container {
+    position: relative;
+    height: auto;
+    margin-top: 30px;
+    left: 0;
+}
+
+ul, li{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    font-size: 20px;
+    background-color: rgb(109, 115, 197);
+}
+
+span {
+    text-align: center;
+}
+
+#clear-button{
+    margin-top: 5px;
+}
